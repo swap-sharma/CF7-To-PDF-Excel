@@ -209,7 +209,7 @@ A `.xlsx` file with all data written into clearly labelled rows using section he
 
 ```bash
 cd wp-content/plugins/
-git clone https://github.com/your-username/cf7-to-pdf-excel.git
+git clone https://github.com/swap-sharma/cf7-to-pdf-excel.git
 ```
 
 2. Activate the plugin from **WordPress Admin → Plugins**.
