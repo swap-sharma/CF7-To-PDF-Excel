@@ -73,7 +73,7 @@ Plugin captures all field values
 ### Frontend Form — Virtual Estimator
 The full onboarding form built with Contact Form 7, collecting business details, login credentials, shop rates, and sublet provider information.
 
-![Frontend Form](screenshots/Frontend_Form.png)
+![Frontend Form](https://plugins.stagingwave.site/cf7-to-pdf-excel/Frontend_Form.png)
 
 ---
 
@@ -295,11 +295,3 @@ After the email is sent, the temporary files are deleted from the server.
 
 This plugin was developed as a **custom client project**. Please contact the author before reuse or redistribution.
 
----
-
-## Author
-
-Built by **[Your Name / Studio Name]**
-🌐 [your-website.com](https://your-website.com) · 📧 your@email.com
-
-> Looking for a similar custom WordPress plugin? [Get in touch](mailto:your@email.com).
