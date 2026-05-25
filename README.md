@@ -80,14 +80,14 @@ The full onboarding form built with Contact Form 7, collecting business details,
 ### Successful Submission
 Confirmation state shown to the user after the form is submitted successfully.
 
-![Successful Submission](screenshots/Form_Successfull_Submission.png)
+![Successful Submission](https://plugins.stagingwave.site/cf7-to-pdf-excel/Form_Successfull_Submission.png)
 
 ---
 
 ### Email Received with Attachments
 The automated notification email delivered to the configured recipient, with both the PDF and Excel file attached.
 
-![Email Received](screenshots/Email_Recived_with_PDF_And_Excel.png)
+![Email Received](https://plugins.stagingwave.site/cf7-to-pdf-excel/Email_Recived_with_PDF_And_Excel.png)
 
 ---
 
@@ -165,9 +165,9 @@ A multi-page PDF report laid out with bold section headers, clearly labelled fie
 | Page 2 | BSR Logins · Shop Rate · Sublet Providers (partial) |
 | Page 3 | Sublet Providers (continued) · Notes |
 
-![PDF Page 1](screenshots/pdf_ss_1.png)
-![PDF Page 2](screenshots/pdf_ss_2.png)
-![PDF Page 3](screenshots/pdf_ss_3.png)
+![PDF Page 1](https://plugins.stagingwave.site/cf7-to-pdf-excel/pdf_ss_1.png)
+![PDF Page 2](https://plugins.stagingwave.site/cf7-to-pdf-excel/pdf_ss_2.png)
+![PDF Page 3](https://plugins.stagingwave.site/cf7-to-pdf-excel/pdf_ss_3.png)
 
 ---
 
@@ -186,9 +186,9 @@ A `.xlsx` file with all data written into clearly labelled rows using section he
 | 41–52 | Sublet Providers |
 | 54–55 | Notes |
 
-![Excel Sheet 1](screenshots/excel_ss_1.png)
-![Excel Sheet 2](screenshots/excel_ss_2.png)
-![Excel Sheet 3](screenshots/excel_ss_3.png)
+![Excel Sheet 1](https://plugins.stagingwave.site/cf7-to-pdf-excel/excel_ss_1.png)
+![Excel Sheet 2](https://plugins.stagingwave.site/cf7-to-pdf-excel/excel_ss_2.png)
+![Excel Sheet 3](https://plugins.stagingwave.site/cf7-to-pdf-excel/excel_ss_3.png)
 
 ---
 
